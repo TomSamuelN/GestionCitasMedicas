@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ClinicaMedica.Aplicacion/ClinicaMedica.Aplicacion.csproj" />
+    <Project Path="src/ClinicaMedica.Consola/ClinicaMedica.Consola.csproj" />
+    <Project Path="src/ClinicaMedica.Dominio/ClinicaMedica.Dominio.csproj" />
+    <Project Path="src/ClinicaMedica.Infraestructura/ClinicaMedica.Infraestructura.csproj" />
+  </Folder>
+</Solution>
